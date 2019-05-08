@@ -1,0 +1,29 @@
+.PropertyItem {
+  
+}
+
+.PropertyItem .posted-date {
+  float     : right;
+  font-size : smaller;
+  margin-top: 1rem;
+}
+
+.PropertyItem .location-label {
+  line-height: 2rem;
+}
+
+.PropertyItem .price-label {
+  font-size  : larger;
+  font-weight: 700;
+}
+
+
+.PropertyItem .detail-button {
+  color        : white;
+  background   : orange;
+  padding      : 0.7rem;
+  text-align   : center;
+  display      : inline-block;
+  border-radius: 4px;
+  float        : right;
+}
